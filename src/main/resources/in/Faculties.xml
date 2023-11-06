@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Faculties>
+    <Faculty>
+        <Name>Факультет информатики</Name>
+        <Score>325</Score>
+        <Subjects>
+            <Subject>
+                <Name>Математика</Name>
+                <Score>60</Score>
+            </Subject>
+            <Subject>
+                <Name>Русский язык</Name>
+                <Score>55</Score>
+            </Subject>
+            <Subject>
+                <Name>Информатика</Name>
+                <Score>70</Score>
+            </Subject>
+            <Subject>
+                <Name>Физика</Name>
+                <Score>60</Score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+    <Faculty>
+        <Name>Факультет биоинженерии</Name>
+        <Score>305</Score>
+        <Subjects>
+            <Subject>
+                <Name>Математика</Name>
+                <Score>60</Score>
+            </Subject>
+            <Subject>
+                <Name>Русский язык</Name>
+                <Score>65</Score>
+            </Subject>
+            <Subject>
+                <Name>Биология</Name>
+                <Score>70</Score>
+            </Subject>
+            <Subject>
+                <Name>Химия</Name>
+                <Score>50</Score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+</Faculties>

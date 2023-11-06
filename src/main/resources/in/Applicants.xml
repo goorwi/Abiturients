@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Applicants>
+    <Applicant>
+        <Name>Русских Владислав Дмитриевич</Name>
+        <Subjects>
+            <Subject>
+                <Name>Математика</Name>
+                <Score>62</Score>
+            </Subject>
+            <Subject>
+                <Name>Русский язык</Name>
+                <Score>94</Score>
+            </Subject>
+            <Subject>
+                <Name>Информатика</Name>
+                <Score>80</Score>
+            </Subject>
+            <Subject>
+                <Name>Физика</Name>
+                <Score>61</Score>
+            </Subject>
+        </Subjects>
+    </Applicant>
+    <Applicant>
+        <Name>Петров Пётр Петрович</Name>
+        <Subjects>
+            <Subject>
+                <Name>Математика</Name>
+                <Score>74</Score>
+            </Subject>
+            <Subject>
+                <Name>Русский язык</Name>
+                <Score>83</Score>
+            </Subject>
+            <Subject>
+                <Name>Биология</Name>
+                <Score>87</Score>
+            </Subject>
+            <Subject>
+                <Name>Обществознание</Name>
+                <Score>75</Score>
+            </Subject>
+        </Subjects>
+    </Applicant>
+    <Applicant>
+        <Name>Кронов Сергей Александрович</Name>
+        <Subjects>
+            <Subject>
+                <Name>Математика</Name>
+                <Score>48</Score>
+            </Subject>
+            <Subject>
+                <Name>Русский язык</Name>
+                <Score>63</Score>
+            </Subject>
+            <Subject>
+                <Name>Биология</Name>
+                <Score>74</Score>
+            </Subject>
+            <Subject>
+                <Name>Физика</Name>
+                <Score>51</Score>
+            </Subject>
+        </Subjects>
+    </Applicant>
+    <Applicant>
+        <Name>Шалагинова Надежда Владимировна</Name>
+        <Subjects>
+            <Subject>
+                <Name>Математика</Name>
+                <Score>48</Score>
+            </Subject>
+            <Subject>
+                <Name>Русский язык</Name>
+                <Score>63</Score>
+            </Subject>
+            <Subject>
+                <Name>Биология</Name>
+                <Score>74</Score>
+            </Subject>
+            <Subject>
+                <Name>Химия</Name>
+                <Score>51</Score>
+            </Subject>
+        </Subjects>
+    </Applicant>
+</Applicants>
